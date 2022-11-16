@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.todo-card{
+  background-color: white;
+  width:400px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.todo-ShowTask{
+  text-align: left;
+}
